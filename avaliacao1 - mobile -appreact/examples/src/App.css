@@ -1,0 +1,31 @@
+.maps-google{
+margin-top: 10px;
+}
+
+.App{
+     margin-left:40%;
+     background-color: rgb(39, 39, 116);
+     padding-top:10px;
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+body{
+     background-color:rgb(44, 42, 92);
+     display:flex;
+     justify-content: center;
+     align-items:center;
+     flex-wrap:wrap;
+}
+
+.App input{
+     font-family:'Courier New', Courier, monospace;
+     font-size:15px;
+     outline:none;
+     border: 2px solid rgb(81, 81, 233);
+     border-radius: 5px;
+}
+
+button{
+     background-color:aliceblue;
+     color:black;
+}
